@@ -1,0 +1,1 @@
+This repository contains 3 different projects made by my-self to learn about PowerBI tools. Because of storage limits in Github, some large files are absent here but i'm willing to share it for someone in need. 
